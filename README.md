@@ -1,3 +1,3 @@
-#Fetch API Example
+# Fetch API Example
 
 ## Fetching data
